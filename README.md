@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Surabhi-the-Programmer
 - 👀 I’m interested in website design
 - 🌱 I’m currently learning css bootstrap
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Paid Photoshoot, customized paintings 
 - 📫 How to reach me ...
 
 <!---
